@@ -1,0 +1,3 @@
+/Users/joaovalentim/CLionProjects/projeto_AC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/joaovalentim/CLionProjects/projeto_AC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joaovalentim/CLionProjects/projeto_AC/cmake-build-debug/CMakeFiles/projeto_AC.dir
