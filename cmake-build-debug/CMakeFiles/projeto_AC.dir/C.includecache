@@ -6,3 +6,13 @@
 
 #IncludeRegexTransform: 
 
+/Users/joaovalentim/CLionProjects/projeto_AC/main.c
+stdio.h
+-
+stdlib.h
+/Users/joaovalentim/CLionProjects/projeto_AC/stdlib.h
+string.h
+/Users/joaovalentim/CLionProjects/projeto_AC/string.h
+time.h
+/Users/joaovalentim/CLionProjects/projeto_AC/time.h
+
